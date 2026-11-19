@@ -1,0 +1,29 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+assetwatch
+assetwatch.exe
+
+# Test reports and outputs
+report.json
+report.csv
+test_report.json
+test_report.csv
+*.out
+
+# Go workspace and build caches
+go.work
+go.work.sum
+
+# IDE & Editor folders
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+Thumbs.db
+.DS_Store
